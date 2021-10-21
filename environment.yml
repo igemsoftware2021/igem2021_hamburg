@@ -1,0 +1,11 @@
+name: igem-hamburg
+channels:
+  - bioconda
+  - defaults
+dependencies:
+  - blast=2.12.0
+  - mafft=7.487
+  - numpy=1.21.2
+  - pip=21.0.1
+  - python=3.8.11
+  - requests=2.26.0
